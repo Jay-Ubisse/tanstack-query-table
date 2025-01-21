@@ -14,7 +14,6 @@ export function TanstckTable() {
 
   if (!data || data.length === 0 || data.length < 0)
     return "No available data to display";
-  console.log(data);
 
   return (
     <div>
