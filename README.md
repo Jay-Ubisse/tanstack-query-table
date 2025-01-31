@@ -441,4 +441,4 @@ export default App;
 ---
 
 [Link para visualização do projecto](https://tanstack-query-table.vercel.app/)
-Desenvolvido com 💻 por [Jay-Ubisse](https://github.com/Jay-Ubisse/tanstack-query-table).
+Desenvolvido com ❤️ por [Jay-Ubisse](https://github.com/Jay-Ubisse/).
